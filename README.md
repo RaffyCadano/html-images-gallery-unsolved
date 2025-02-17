@@ -47,18 +47,18 @@ This assignment should prove that a student is able to:
 - [X] All the tasks of the "Specific requirements" section MUST be solved
 - [X] **The project's file/folder structure should NOT be edited!**
 - [X] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-main` to run index.html file tests
-  - [ ] Use `npm run test-modern-design` to run modern-design.html file tests
-  - [ ] Use `npm run test-nature` to run nature.html file tests
-  - [ ] Use `npm run test-plants` to run plants.html file tests
-  - [ ] Use `npm run test-space` to run space.html file tests
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+  - [X] Use `npm run test` to run all tests in the terminal
+  - [X] Use `npm run test-main` to run index.html file tests
+  - [X] Use `npm run test-modern-design` to run modern-design.html file tests
+  - [X] Use `npm run test-nature` to run nature.html file tests
+  - [X] Use `npm run test-plants` to run plants.html file tests
+  - [X] Use `npm run test-space` to run space.html file tests
+  - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [X] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [X] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [X] The code MUST be formatted with Prettier
+- [X] Push the changes to the Github repo, when finished.
+- [X] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -104,7 +104,7 @@ This assignment should prove that a student is able to:
   - [More Nature Images](https://unsplash.com/s/photos/nature)
   - [More Space Images](https://unsplash.com/s/photos/space)
   - [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
-- [ ] Add the detail page path for each bottom navigation item:
+- [X] Add the detail page path for each bottom navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
